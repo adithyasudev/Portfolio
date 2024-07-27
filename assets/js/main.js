@@ -75,28 +75,4 @@ function resumeDownload() {
   );
 }
 
-// Github Calander
-// GitHubCalendar(".calendar", "ShubhKeshari");
 
-// // or enable responsive functionality:
-// GitHubCalendar(".calendar", "ShubhKeshari", { responsive: true });
-
-// // Use a proxy
-// GitHubCalendar(".calendar", "ShubhKeshari", {
-//   proxy(username) {
-//     return fetch(`https://your-proxy.com/github?user=${username}`);
-//   },
-// });
-
-// Contact Form Clear
-
-// const clearForm = () => {
-//   console.log("Hi i am clr");
-//   const name = document.getElementById("name");
-//   const email = document.getElementById("email");
-//   const message = document.getElementById("message");
-//   console.log(name.value);
-//   console.log(email.value);
-//   console.log(message.value);
- 
-// };
